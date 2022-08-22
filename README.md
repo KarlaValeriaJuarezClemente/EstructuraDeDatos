@@ -2,4 +2,4 @@
 
 = Karla Valeria Juárez Clemente
 
-  Juan Francisco Ramos Chávez
+   Juan Francisco Ramos Chávez
